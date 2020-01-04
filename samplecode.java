@@ -4,3 +4,4 @@ class Simple{
      System.out.println("Hello Java updated");  
     }  
 }
+}
