@@ -3,3 +3,4 @@ class Simple{
      Thread.sleep(5000);
      System.out.println("Hello Java updated");  
     }
+}
